@@ -1,5 +1,5 @@
-Remove lcoal Branch => ** git branch -d 'name_of_the_branch' ** _while you are at another branch_
-Remove remote Branch => ** git push  :'name_of_the_branch' ** 
+Remove lcoal Branch => **git branch -d 'name_of_the_branch'** _while you are at another branch_
+Remove remote Branch => **git push  :'name_of_the_branch'** 
 
 lightweight tags are just pointers for a specific commit specifying that this commit is important _a feature is ready or this version is ready for release_ 
 the annonated tags aren't just pointers they are objects storing the name of the creator, his email, the date, a tagging message and the checksum of the commit 
